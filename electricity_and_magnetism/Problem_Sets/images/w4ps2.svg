@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 792 612" enable-background="new 0 0 792 612" xml:space="preserve">
+<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="411.2" y1="580.5" x2="411.2" y2="441.2"/>
+<text transform="matrix(1 0 0 1 445.8144 169.5701)" font-family="'STIXGeneral-BoldItalic'" font-size="56.9302">P</text>
+<ellipse opacity="0.6" fill="#FFB29F" stroke="#000000" stroke-miterlimit="10" enable-background="new    " cx="413.3" cy="426" rx="282.6" ry="49.8"/>
+<ellipse fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" cx="411.2" cy="426" rx="264.3" ry="40.7"/>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="411.2" y1="430" x2="411.2" y2="59"/>
+	</g>
+</g>
+<path fill="none" stroke="#231F20" stroke-miterlimit="10" d="M31,620.1"/>
+<text transform="matrix(1 0 0 1 211.993 93.9349)" font-family="'STIXGeneral-BoldItalic'" font-size="50.8306">-q</text>
+<text transform="matrix(1 0 0 1 40.6953 326.3318)" font-family="'STIXGeneral-BoldItalic'" font-size="50.8306">Q</text>
+<text transform="matrix(1 0 0 1 77.2935 326.3318)" font-family="'STIXGeneral-Bold'" font-size="50.8306">&gt;0</text>
+<g>
+	<g>
+		<path fill="none" stroke="#231F20" stroke-miterlimit="10" d="M385.8,118.5c-17.1-21.1-46.2-31.3-72.6-32.7"/>
+		<g>
+			<path fill="#231F20" d="M387.3,107.6l0.2,0.2l2.6,12.6c1.4,4.1,3,7.9,4.5,12c-3-3-6.1-5.9-9.1-8.9l-10.6-7.3v-0.2l8.5-0.2
+				L387.3,107.6z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path fill="none" stroke="#231F20" stroke-miterlimit="10" d="M57.5,356.8c26.4,1.4,55.5,11.6,72.6,32.7"/>
+		<g>
+			<path fill="#231F20" d="M127.6,386.7l3.7-7.7l0.2,0.2l2.6,12.6c1.4,4.1,3,7.9,4.5,12c-3-3-6.1-5.9-9.1-8.9l-10.6-7.3v-0.2
+				L127.6,386.7z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="410.8" y1="429.4" x2="499.5" y2="458.3"/>
+		<g>
+			<path d="M496,457.1l-2-8.3h0.2l10,8.1c3.7,2.2,7.3,4.3,11,6.5c-4.3-0.4-8.5-0.8-12.8-1.2l-12.8,0.8l-0.2-0.2L496,457.1z"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 475.7852 430.6402)" font-family="'STIXGeneral-BoldItalic'" font-size="50.8306">R</text>
+<circle fill="#38FF2A" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="411.2" cy="154.5" r="13.4"/>
+<text transform="matrix(1 0 0 1 313.1458 295.9561)" font-family="'STIXGeneral-BoldItalic'" font-size="48.7973">z</text>
+<g>
+	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M387.1,154.5c-43.7,48,1.2,94.5-24.4,141.5"/>
+	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M387.1,431c-43.7-48,1.2-94.5-24.4-141.5"/>
+</g>
+</svg>
